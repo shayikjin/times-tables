@@ -1,0 +1,15 @@
+{
+  "name": "Times Table Trainer",
+  "short_name": "Times Tables",
+  "display": "standalone",
+  "start_url": "./",
+  "background_color": "#FFF8E8",
+  "theme_color": "#DC3A3A",
+  "icons": [
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
